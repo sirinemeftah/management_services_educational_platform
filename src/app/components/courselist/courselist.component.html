@@ -72,8 +72,8 @@
     <p class="card-text"><br><b style="color: darkblue; font-size: large; margin-bottom: 1%;">{{data.description}}</b></p>
     <div *ngFor="let status of enrollmentstatus | async">
       <div *ngIf="status === 'notenrolled'" >
-        <a *ngIf="data.coursetype === 'Youtube'" (click)="enrollcourse(data,loggedUser,currRole)" id="enrollbtn" value="Accept" style="margin-right: 8%; margin-left: 3%" class="btn btn-primary">Enroll Now</a>
-        <a *ngIf="data.coursetype === 'Youtube'" id="enrolledbtn" class="btn btn-secondary" style="display: none; margin-right: 8%; margin-left: 7%;">Enrolled</a>
+        <a  (click)="enrollcourse(data,loggedUser,currRole)" id="enrollbtn" value="Accept" style="margin-right: 8%; margin-left: 3%" class="btn btn-primary">Enroll Now</a>
+        <a  id="enrolledbtn" class="btn btn-secondary" style="display: none; margin-right: 8%; margin-left: 7%;">Enrolled</a>
       </div>
       <div *ngIf="status === 'enrolled'" >
         <a *ngIf="data.coursetype === 'Youtube'" style="margin-right: 8%; margin-left: 7%;" class="btn btn-secondary">Enrolled</a>
