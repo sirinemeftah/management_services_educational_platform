@@ -22,12 +22,6 @@ This is an educational platform that allows users to connect as either a student
 ![Google Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Fonts&color=4285F4&logo=Google+Fonts&logoColor=FFFFFF&label=)
 ![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=0081CB&logo=Material-UI&logoColor=FFFFFF&label=)
 
-## Additional Stack 😄
-
-![Filesaver JS](https://img.shields.io/static/v1?style=for-the-badge&message=Filesaver+Js&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![Youtube Player API](https://img.shields.io/static/v1?style=for-the-badge&message=Youtube+Player+API&color=E34F26&logo=Youtube&logoColor=FFFFFF&label=)
-![OWL Carousel](https://img.shields.io/static/v1?style=for-the-badge&message=OWL+Carousel&color=0769AD&logoColor=FFFFFF&label=)
-![Material Design Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design+Icons&color=2196F3&logo=Material+Design+Icons&logoColor=FFFFFF&label=)
 
 ## Server Side ⚡
 
